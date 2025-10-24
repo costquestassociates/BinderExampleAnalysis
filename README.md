@@ -1,4 +1,4 @@
-### Example of how to use MyBinder for reproducable Jupyter notebooks.
+### Example of how to use MyBinder for reproducible Jupyter notebooks.
 
 MyBinder Link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/costquestassociates/BinderExampleAnalysis/HEAD)
 
