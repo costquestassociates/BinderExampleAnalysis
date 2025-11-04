@@ -2,3 +2,5 @@ cqazapipytools
 secrets.json
 *.db
 *.csv
+*.html
+*.zip

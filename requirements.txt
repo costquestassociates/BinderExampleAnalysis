@@ -2,3 +2,5 @@ matplotlib
 numpy
 pandas
 GitPython
+folium
+geopandas
