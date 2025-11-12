@@ -4,3 +4,6 @@ secrets.json
 *.csv
 *.html
 *.zip
+
+# --- Exceptions ---
+!demo_match_input.csv
